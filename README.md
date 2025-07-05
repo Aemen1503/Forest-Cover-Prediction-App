@@ -30,19 +30,25 @@ This app uses a **Random Forest Classifier** trained on the Forest Cover Type da
    ```bash
    pip install streamlit scikit-learn pandas
 
+## 📦 Dataset  
+The dataset used is `train.csv`, which contains 15120 samples with 54 input features and one target label `Cover_Type`.
 
-📦 Dataset
-The dataset used is train.csv which contains 15120 samples with 54 input features and one target label Cover_Type.
+---
 
-🧠 ML Model Download (Trained Random Forest)
-Since GitHub doesn’t allow files >100MB, you can download the model from Google Drive:
+## 🧠 ML Model Download (Trained Random Forest)  
+Since GitHub doesn’t allow files larger than 100MB, you can download the trained model from Google Drive:
 
-🔗 Download rf_model.pkl
+🔗 [Click here to download `rf_model.pkl`](https://drive.google.com/file/d/1qEVSYBkdNyiR4TK-yPazgORB1pUUf-ei/view?usp=drive_link)
 
-🎥 Demo Video
-📺 Watch App Demo
+---
 
-👩‍💻 Developed by
-Aemen Parveen
-ML Intern @ Unified Mentor
+## 🎥 Demo Video  
+Watch how the app works:
 
+📺 [Click here to watch the demo](https://drive.google.com/file/d/1jne_J6XHc0Or-GfDgbnPfFYMtfJ0Gclg/view?usp=drive_link)
+
+---
+
+## 👩‍💻 Developed by  
+**Aemen Parveen**  
+_ML Intern @ Unified Mentor_
